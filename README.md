@@ -19,7 +19,7 @@ Este repositório reúne meus estudos, anotações, exercícios e projetos do cu
 
 ## Boas práticas
 - Nunca colocar credenciais em arquivos versionados.
-- Datasets grandes: usar `git-lfs` ou armazenar externamente (Google Drive, OneDrive).
+- Datasets grandes: armazenar externamente (Google Drive, OneDrive).
 - Commits pequenos e descritivos (ex.: `feat: adiciona exemplos de INNER JOIN`).
 
 ## Contato
